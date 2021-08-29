@@ -1,0 +1,13 @@
+colors - 
+
+background - #e8ebf3
+             white
+             black
+             blueviolet { rgb(138, 43, 226) }
+
+shadow     - #4148561f
+
+
+svg     -  https://undraw.co/
+icons   -  https://www.iconfinder.com/
+content -  https://www.javatpoint.com/
